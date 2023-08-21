@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "localhost.andre.equinox",
-      "sha256_cert_fingerprints": ["1B:FA:E5:D6:ED:5D:04:87:8A:D1:BE:94:22:1A:BE:AF:10:F9:93:E2:B7:86:0D:99:5C:AA:91:43:BA:AC:8D:1B"]
+      "sha256_cert_fingerprints": ["1B:FA:E5:D6:ED:5D:04:87:8A:D1:BE:94:22:1A:BE:AF:10:F9:93:E2:B7:86:0D:99:5C:AA:91:43:BA:AC:8D:1B", "42:97:23:23:26:B3:32:E7:45:F8:E1:8E:E7:A9:EC:0C:0A:4E:92:6A:A8:D6:4A:78:34:BD:66:FC:5D:BF:A1:40"]
     }
   }
 ]
