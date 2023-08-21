@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "localhost.andre.equinox",
+      "sha256_cert_fingerprints": ["1B:FA:E5:D6:ED:5D:04:87:8A:D1:BE:94:22:1A:BE:AF:10:F9:93:E2:B7:86:0D:99:5C:AA:91:43:BA:AC:8D:1B"]
+    }
+  }
+]
